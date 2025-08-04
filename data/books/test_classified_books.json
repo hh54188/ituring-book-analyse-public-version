@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Python深度学习",
+    "tech_tag": "Python",
+    "publishDate": "2023-01-15T00:00:00",
+    "authorNameString": "张三",
+    "isbn": "978-7-115-12345-6"
+  },
+  {
+    "name": "JavaScript高级程序设计",
+    "tech_tag": "JavaScript",
+    "publishDate": "2023-06-20T00:00:00",
+    "authorNameString": "李四",
+    "isbn": "978-7-115-12346-7"
+  },
+  {
+    "name": "机器学习实战",
+    "tech_tag": "机器学习",
+    "publishDate": "2022-12-10T00:00:00",
+    "authorNameString": "王五",
+    "isbn": "978-7-115-12347-8"
+  }
+]
